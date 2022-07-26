@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "myp-app",
+    "slug": "myp-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
