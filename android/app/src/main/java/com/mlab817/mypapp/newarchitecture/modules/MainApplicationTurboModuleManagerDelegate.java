@@ -1,4 +1,4 @@
-package com.mypapp.newarchitecture.modules;
+package com.mlab817.mypapp.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

@@ -1,4 +1,4 @@
-package com.mypapp.newarchitecture;
+package com.mlab817.mypapp.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.mypapp.BuildConfig;
-import com.mypapp.newarchitecture.components.MainComponentsRegistry;
-import com.mypapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.mlab817.mypapp.BuildConfig;
+import com.mlab817.mypapp.newarchitecture.components.MainComponentsRegistry;
+import com.mlab817.mypapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

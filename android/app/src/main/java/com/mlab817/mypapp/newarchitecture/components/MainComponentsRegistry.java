@@ -1,4 +1,4 @@
-package com.mypapp.newarchitecture.components;
+package com.mlab817.mypapp.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

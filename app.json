@@ -5,6 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.mlab817.mypapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.mlab817.mypapp"
+    }
   }
 }

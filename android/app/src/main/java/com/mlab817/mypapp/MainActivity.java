@@ -1,4 +1,4 @@
-package com.mypapp;
+package com.mlab817.mypapp;
 
 import android.os.Build;
 import android.os.Bundle;
